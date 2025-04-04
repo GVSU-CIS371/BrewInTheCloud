@@ -1,2 +1,9 @@
-# BrewInTheCloud
-This project extends the "Brew &amp; Save" application by integrating Firebase Firestore for cloud-based storage. Users can create, name, and save custom beverage recipes, which are now stored and retrieved from Firestore, enabling persistent access across sessions and devices.
+# Project Details
+
+Hello students! For detailed instructions and requirements regarding this project, please click on the link below:
+
+[Details](https://gvsu-cis371.github.io/projects/cdm.html)
+
+Ensure you read and understand all the instructions before starting your work. If you have any questions or clarifications, please reach out.
+
+Happy coding!
